@@ -3,7 +3,7 @@ site:
   start_page: thingerman::index.adoc 
 content:
   sources: 
-  - url: https://gitlab.com/miafugl/thingerman.git
+  - url: https://github.com/miafugl/thingerman
     branches: master
     start_path: docs
 ui: 
